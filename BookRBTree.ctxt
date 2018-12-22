@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BookRBTree()
+comment1.params=node
+comment1.target=BookNode\ insertBook(BookNode)
+comment2.params=
+comment2.target=void\ inOrder()
+comment3.params=
+comment3.target=BookNode\ getRoot()
+comment4.params=node
+comment4.target=void\ setRoot(BookNode)
+comment5.params=root
+comment5.target=void\ inOrder(BookNode)
+numComments=6

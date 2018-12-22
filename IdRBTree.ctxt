@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IdRBTree()
+comment1.params=node
+comment1.target=IdNode\ insertIdClient(IdNode)
+comment2.params=
+comment2.target=void\ inOrder()
+comment3.params=
+comment3.target=IdNode\ getRoot()
+comment4.params=node
+comment4.target=void\ setRoot(IdNode)
+comment5.params=root
+comment5.target=void\ inOrder(IdNode)
+comment6.params=root
+comment6.target=java.util.ArrayList\ getIdData(IdNode)
+comment7.params=root\ temp
+comment7.target=void\ getIdData(IdNode,\ java.util.ArrayList)
+comment8.params=root
+comment8.target=java.util.ArrayList\ getCountData(IdNode)
+comment9.params=root\ temp
+comment9.target=void\ getCountData(IdNode,\ java.util.ArrayList)
+numComments=10
