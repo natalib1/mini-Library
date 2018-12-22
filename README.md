@@ -18,8 +18,9 @@ input:
   Workplace - There is only one copy of each book in the library.
 
 Output:
-  Any changes made to the library
-  Each query followed by the answer to it
+  
+  Any changes made to the library.
+  Each query followed by the answer to it.
   
 Description of the data structure and explanation:
   A tree in which the value according to which it is sorted is the customer's ID. Each node contains in addition to the main field of the ID, a field of the list of books that is in the same customer, which also updates the field containing the number of books currently in that customer.
