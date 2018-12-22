@@ -18,7 +18,6 @@ input:
   Workplace - There is only one copy of each book in the library.
 
 Output:
-  
   Any changes made to the library.
   Each query followed by the answer to it.
   
