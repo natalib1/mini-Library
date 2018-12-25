@@ -1,5 +1,5 @@
 # mini-Library
-Realization of data structure
+Implementation of data structure
 
 java
 
